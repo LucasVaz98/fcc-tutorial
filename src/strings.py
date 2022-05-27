@@ -75,9 +75,9 @@ print(my_str)
 
 # Raw String
 print('C:some\name') # here \n means a new line
-print(r'C:some\name') # here \n it's only a part of stringm, thanks to the 'r' being a regular expression
+print(r'C:some\name') # here \n it's only a part of string, thanks to the 'r' being a regular expression
 
-# String leterals
+# String literals
 # this following print will be like an comment on the display, so it can be used for doc maybe
 print("""\
         Usage: thingy [OPTIONS]
